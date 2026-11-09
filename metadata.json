@@ -1,0 +1,6 @@
+{
+  "name": "MORI — Healthy Breakfast",
+  "description": "A Better Start, Every Day. Official web application & online ordering for MORI Healthy Food & Breakfast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

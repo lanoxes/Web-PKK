@@ -478,21 +478,21 @@ export const TEAM_MEMBERS = [
     name: 'Anisa',
     role: 'Lead UI/UX Designer & Brand Identity',
     responsibility: 'Merancang logo MORI, color palette (Oat Cream, Sage Green, Earth Brown, Honey Yellow), tipografi, desain kemasan ramah lingkungan, dan prototipe antarmuka website.',
-    avatar: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80',
+    avatar: '/assets/aistudio/1000198546_33305318.jpg',
     quote: '"Desain MORI menghadirkan nuansa hangat, bersih, dan menenangkan layaknya udara pagi."'
   },
   {
     name: 'Syafa',
     role: 'Content Manager & Nutrition Specialist',
     responsibility: 'Menyusun narasi brand MORI, copywriting edukatif, perhitungan kalori & makronutrisi setiap menu, kurasi komposisi bahan segar, serta penulisan informasi alergen.',
-    avatar: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80',
+    avatar: '/assets/aistudio/1000198547_02e2a247.jpg',
     quote: '"Kami percaya makanan segar dengan bahan alami adalah investasi terbaik untuk masa depan."'
   },
   {
     name: 'Rijal',
     role: 'Fullstack Web Developer & Systems Engineer',
     responsibility: 'Mengembangkan arsitektur website interaktif berbasis React & Vite, sistem keranjang belanja dinamis, fitur kustomisasi bowl interaktif, kalkulator harga otomatis, dan alur checkout pesanan.',
-    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80',
+    avatar: '/assets/aistudio/image_f3253340.png',
     quote: '"Website yang ringan, cepat, dan intuitif memastikan pelanggan memesan sarapan dalam waktu kurang dari 2 menit."'
   }
 ];

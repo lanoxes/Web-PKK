@@ -196,6 +196,10 @@ export const AboutUs: React.FC = () => {
                     <img
                       src={member.avatar}
                       alt={member.name}
+                      onError={(e) => {
+                        (e.target as HTMLImageElement).src =
+                          'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80';
+                      }}
                       className="w-full h-full object-cover"
                     />
                   </div>

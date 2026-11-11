@@ -65,10 +65,10 @@ export const Home: React.FC<HomeProps> = ({ onOpenSubscription, onOpenMembership
 
   const testimonials = [
     {
-      name: 'Yunie Purwiasih, M.Pd',
-      role: 'Boss SMK Karya Guna 2 Bekasi',
-      text: 'Biasa skip sarapan atau beli gorengan sebelum kelas jam 8. Sejak ada MORI Oats jar, praktis banget bisa makan di selasar kampus dan kenyang sampai siang!',
-      avatar: 'https://smkkg2.sch.id/wp-content/uploads/elementor/thumbs/yunie-reotp3kh656vjtb6qoerwkpwk61g2cp00po2uiph0u.webp',
+      name: 'Anisa',
+      role: 'murid xii tkj 4',
+      text: 'Biasa skip sarapan atau beli gorengan sebelum kelas jam 8. Sejak ada MORI Oats jar, praktis banget bisa makan di selasar sekolah dan kenyang sampai siang!',
+      avatar: '/assets/aistudio/image_e547750c.png',
       rating: 5,
       menu: 'Berry Vanilla Oats'
     },
